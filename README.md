@@ -8,4 +8,4 @@ e com o gerenciador de pacotes do NodeJS o npm.
 - React
 - Styled-Components
 
-### Visite: [LandingPage](https://tc-landingpage.surge.sh/)
+### Visite: [LandingPage](https://landingpage-tcfront.surge.sh/)
